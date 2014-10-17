@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[sge:home|Door43 (sge)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-sge|d43-sge repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-sge/archive/master.zip|d43-sge.zip]]
+
+**Recent Changes**
+{{changes>ns = sge}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/sge|Ethnologue data]]
+
